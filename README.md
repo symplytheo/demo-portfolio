@@ -1,2 +1,3 @@
-# symplytheo.github.io
-My User website built with modern designs 
+# demo-portfolio-template
+/
+README.md
