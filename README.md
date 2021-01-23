@@ -1,3 +1,3 @@
 # demo-portfolio-template
-/
-README.md
+
+**Demo Link:** [https://symplytheo.github.io/demo-portfolio-template/](https://symplytheo.github.io/demo-portfolio-template/)
